@@ -1,2 +1,2 @@
-# HackerRank
-My solved problems from HackerRank
+# CodeChef
+My solved problems from Codechef
